@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sagar Khode
+- 👀 I’m interested in Machine Learning And Deep Learning
+- 🌱 I’m currently learning to learn
+- 💞️ I’m looking to collaborate on expert Data Scientist
+- 📫 How to reach me sagar.khode1@gmail.com
